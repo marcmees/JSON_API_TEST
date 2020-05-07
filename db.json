@@ -1,8 +1,6 @@
 {
   "EH-1": [
-    {
-      "assignedReleases": 
-	  [
+
 		  {
 			"Release": "2020.1",
 			"CodeFreeze": "03.05.2020",
@@ -16,7 +14,5 @@
 			"DeliveryDate": "13.06.2020"     
 		  }
       ]
-	}
-  ]
 }
 
