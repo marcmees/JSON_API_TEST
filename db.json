@@ -1,7 +1,6 @@
 {
   "EH-1":
   [
-    "Title": "Kickoff",
     "Releases": [{"Release":"1", "CodeFreeze": "03.05.2020","FeatureFreeze": "08.05.2020","DeliveryDate": "13.05.2020"},
 	{"Release":"1", "CodeFreeze": "03.05.2020","FeatureFreeze": "08.05.2020","DeliveryDate": "13.05.2020"}]
   ]
