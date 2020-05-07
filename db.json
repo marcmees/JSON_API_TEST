@@ -1,14 +1,18 @@
 {
-  "assignedReleases": [
-    {
-      "id": "A0001",
-      "Release": "2020.1",
-      "CodeFreeze": "03.05.2020",
-      "FeatureFreeze": "08.05.2020",
-      "DeliveryDate": "13.05.2020"     
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "EH-1": [
+    "assignedReleases": [
+      {
+        "Release": "2020.1",
+        "CodeFreeze": "03.05.2020",
+        "FeatureFreeze": "08.05.2020",
+        "DeliveryDate": "13.05.2020"     
+      },
+      {
+        "Release": "2020.2",
+        "CodeFreeze": "03.06.2020",
+        "FeatureFreeze": "08.06.2020",
+        "DeliveryDate": "13.06.2020"     
+      }
+    ]
+  ]
 }
