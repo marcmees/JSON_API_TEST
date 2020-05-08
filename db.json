@@ -1,18 +1,18 @@
 {
-"modification":[
-  {
-    "modificationId": 1,
-    "release": "2020.1",
-    "codeFreeze": "03.05.2020",
-    "featureFreeze": "08.05.2020",
-	"deliveryDate": "13.05.2020"
-  },
-  {
-    "modificationId": 1,
-    "release": "2020.2",
-    "codeFreeze": "03.06.2020",
-    "featureFreeze": "08.06.2020",
-	"deliveryDate": "13.06.2020"
-  }
-]
+	"modification":[
+		{
+			"modificationId": 1,
+			"release": "2020.1",
+			"codeFreeze": "03.05.2020",
+			"featureFreeze": "08.05.2020",
+		"deliveryDate": "13.05.2020"
+		},
+		{
+			"modificationId": 1,
+			"release": "2020.2",
+			"codeFreeze": "03.06.2020",
+			"featureFreeze": "08.06.2020",
+		"deliveryDate": "13.06.2020"
+		}
+	]
 }
