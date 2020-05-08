@@ -1,4 +1,5 @@
-[
+{
+"modification":[
   {
     "modificationId": 1,
     "release": "2020.1",
@@ -14,3 +15,4 @@
 	"deliveryDate": "13.06.2020"
   }
 ]
+}
